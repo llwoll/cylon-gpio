@@ -1,15 +1,15 @@
 {
-  "name": "cylon-gpio",
+  "name": "llwoll-gpio",
   "version": "0.27.0",
   "description": "Cylon module for General Purpose Input/Output (GPIO)",
   "homepage": "http://cylonjs.com",
-  "bugs": "https://github.com/hybridgroup/cylon-gpio/issues",
+  "bugs": "https://github.com/llwoll/cylon-gpio/issues",
 
   "author": "The Hybrid Group <cylonjs@hybridgroup.com>",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/hybridgroup/cylon-gpio"
+    "url": "https://github.com/llwoll/cylon-gpio.git"
   },
 
   "license": "Apache-2.0",
