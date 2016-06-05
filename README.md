@@ -50,6 +50,7 @@ Cylon.js has a extensible system for connecting to hardware devices. The followi
   - Relay
   - RGB LED
   - Servo
+  - stepper motor by halley (步进电机)
 
 More drivers are coming soon...
 
